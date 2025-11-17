@@ -17,34 +17,59 @@ Regular team retrospectives to reflect on our process and continuously improve. 
 ## Retrospective #1: Planning Phase Review
 
 **Date**: November 12, 2025  
-**Attendees**: [Names]  
-**Context**: End of planning phase, objectives documentation in progress
+**Attendees**: Elaine, Giorgina, Jaiden, Ubi, Sayo 
+**Context**: Continuing planning
 
 ### What Went Well ✅
-- [List things that worked well]
-- [E.g., "Good communication in team chat"]
-- [E.g., "Successfully set up development environment"]
+- Everyone was present in person
+- We all agreed to the team agreement
+- Felt good about framework for user stories and acceptance criteria
 
 ### What Didn't Go Well ⚠️
-- [List challenges or issues]
-- [E.g., "Some user stories weren't clear enough"]
-- [E.g., "Had trouble with Ant build configuration"]
+- Not sure what to do about what the minimum a user could test would be (iteration 0)
+- Next step clear but steps after that not clear
+- Assigning tasks is a weak point
 
 ### What We Learned 💡
-- [Key insights or discoveries]
-- [E.g., "Need to test on different devices"]
-- [E.g., "Breaking tasks into smaller pieces helps"]
+- Need to be really clear about who is doing what
+- Need to be realistic about what we can do as an iteration 0
+
+### Action Items 🎯
+
+???
+
+---
+
+## Retrospective #2: Early Development Review
+
+**Date**: November 17, 2025  
+**Attendees**: Elaine, Giorgina, Jaiden, Ubi, Sayo 
+**Context**: Development stall
+
+### What Went Well ✅
+- More clarity/framework for development
+
+### What Didn't Go Well ⚠️
+- Everyone was busy and couldn't do a ton of work on the project
+- Didn't capture action items to be able to assign to people so confusion there
+
+### What We Learned 💡
+- Document action items!
 
 ### Action Items 🎯
 
 | Action | Owner | Deadline | Status |
 |--------|-------|----------|--------|
-| [Specific action to take] | [Name] | [Date] | ⏳ |
-| [E.g., "Refine remaining user stories"] | [Name] | [Date] | ⏳ |
+| User Story # 6 needs to be refined and divided into subtasks | Team | Today | 🟡 |
+| User Story # 5 | @Ubi | Wednesday | 🟡 |
+| User Story # 2 | @Jaiden | Wednesday | 🟡 |
+| Add/update documentation (e.g., screenshots) | @giorgina | Tuesday | 🟡 |
+| User Story # 4 | @Sayo | Wednesday | 🟡 |
+| User Story # 3 | @Elaine | Wednesday | 🟡 |
 
 ---
 
-## Retrospective #2: Early Development
+## Retrospective #3: Early Development
 
 **Date**: November 26, 2025  
 **Attendees**: [Names]  
@@ -194,4 +219,4 @@ Regular team retrospectives to reflect on our process and continuously improve. 
 
 ---
 
-**Last Updated**: [Date]
+**Last Updated**: November 17, 2025
