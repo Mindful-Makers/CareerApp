@@ -28,14 +28,14 @@
 | Milestone | Target Date | Status |
 |-----------|-------------|--------|
 | GitHub repository created | Nov 10 | ✅ |
-| Documentation structure established | Nov 11 | 🟡 In Progress |
-| Methodology documentation complete | Nov 12 | 🟡 In Progress |
-| Communication plan finalized | Nov 12 | ⏳ |
-| Team agreement finalized | Nov 12 | ⏳ |
+| Documentation structure established | Nov 11 | ✅ |
+| Methodology documentation complete | Nov 12 | ✅ |
+| Communication plan finalized | Nov 12 | ✅ |
+| Team agreement finalized | Nov 12 | ✅ |
 | User stories in GitHub Issues | Nov 10-12 | 🟡 In Progress |
 | Kanban board populated | Nov 10-12 | 🟡 In Progress |
-| Development environment setup | Nov 12-14 | ⏳ |
-| Mid-project retrospective | Nov 15-16 | ⏳ |
+| Development environment setup | Nov 12-14 | 🟡 In Progress |
+| Mid-project retrospective | Nov 15-16 | ✅ |
 
 **Deliverables**: 
 - Complete documentation demonstrating methodology understanding
@@ -49,8 +49,8 @@
 
 | Milestone | Target Date | Status |
 |-----------|-------------|--------|
-| Basic project structure and build setup | Nov 17-18 | ⏳ |
-| Documentation review & completion | Nov 18-19 | ⏳ |
+| Basic project structure and build setup | Nov 17-18 | 🟡 In Progress |
+| Documentation review & completion | Nov 18-19 | 🟡 In Progress |
 | Peer reflections completed | Nov 19 | ⏳ |
 | Contribution summary finalized | Nov 19-20 | ⏳ |
 | Retrospective through Nov 21 | Nov 20 | ⏳ |
@@ -158,7 +158,7 @@ This approach allows us to focus on functionality first with the current technic
 **Format**: Brief update on progress, current work, blockers
 
 ### Weekly Team Meetings
-**When**: [Day at Time]  
+**When**: Class (Monday, Wednesday 2-3:50) 
 **Agenda**:
 - Review completed work
 - Plan upcoming week
@@ -167,6 +167,7 @@ This approach allows us to focus on functionality first with the current technic
 
 ### Team Retrospectives (Internal)
 - **Nov 12**: Planning phase review
+- **Nov 17**: Early development reflection - stalled work
 - **Nov 26**: Early development reflection
 - **Dec 10**: Mid-development check
 - **Dec 24**: Near completion (if needed)
@@ -184,9 +185,9 @@ This approach allows us to focus on functionality first with the current technic
 
 | Date | Change | Reason |
 |------|--------|--------|
-| [Date] | [Description] | [Why] |
+| 11/17/25 | Added additional retro | Stall since last retro |
 
 ---
 
-**Last Updated**: November 12, 2025 
+**Last Updated**: November 17, 2025 
 **Owner**: Giorgina Gottlieb
