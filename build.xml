@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="CareerApp" default="test" basedir=".">
+    <property name="src.dir" value="src/app"/>
+    <property name="test.dir" value="src/assets/test/java"/>
+    <property name="build.dir" value="build"/>
+    <property name="classes.dir" value="${build.dir}/classes"/>
+    <property name="test.classes.dir" value="${build.dir}/test-classes"/>
+    <property name="reports.dir" value="${build.dir}/test-reports"/>
+    <property name="lib.dir" value="lib"/>
+
+    <path id="classpath">
+        <fileset dir="${lib.dir}">
+            <include name="**/*.jar"/>
+        </fileset>
+    </path>
+
+    <path id="test.classpath">
+        <path refid="classpath"/>
+        <pathelement location="${classes.dir}"/>
+        <pathelement location="${test.classes.dir}"/>
+    </path>
+
+    <target name="init">
+        <tstamp/>
+        <mkdir dir="${build.dir}"/>
+        <mkdir dir="${classes.dir}"/>
+        <mkdir dir="${test.classes.dir}"/>
+        <mkdir dir="${reports.dir}"/>
+    </target>
+
+    <target name="clean">
+        <delete dir="${build.dir}"/>
+    </target>
+
+    <target name="compile" depends="init">
+        <javac srcdir="${src.dir}" 
+               destdir="${classes.dir}" 
+               classpathref="classpath"
+               includeantruntime="false"
+               debug="true"
+               source="18"
+               target="18">
+            <compilerarg value="-Xlint:unchecked"/>
+        </javac>
+        <echo message="Main source compiled successfully"/>
+    </target>
+
+    <target name="compile-tests" depends="compile">
+        <javac srcdir="${test.dir}" 
+               destdir="${test.classes.dir}" 
+               classpathref="test.classpath"
+               includeantruntime="false"
+               debug="true"
+               source="18"
+               target="18">
+            <compilerarg value="-Xlint:unchecked"/>
+        </javac>
+        <echo message="Test source compiled successfully"/>
+    </target>
+
+    <target name="test" depends="compile-tests">
+        <junitlauncher haltonfailure="no" 
+                       printsummary="true">
+            <classpath refid="test.classpath"/>
+            
+            <testclasses outputdir="${reports.dir}">
+                <fileset dir="${test.classes.dir}">
+                    <include name="**/*Test.class"/>
+                </fileset>
+                <listener type="legacy-plain" sendSysOut="true"/>
+                <listener type="legacy-xml" sendSysErr="true" sendSysOut="true"/>
+            </testclasses>
+        </junitlauncher>
+        <echo message=""/>
+        <echo message="========================================"/>
+        <echo message="Test execution completed!"/>
+        <echo message="========================================"/>
+    </target>
+
+    <target name="run" depends="compile">
+        <java classname="com.careerapp.Launcher" 
+              fork="true"
+              classpathref="test.classpath">
+        </java>
+    </target>
+
+    <target name="all" depends="clean,compile,test"/>
+
+</project>
