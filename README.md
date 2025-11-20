@@ -21,7 +21,6 @@ The project follows professional software development practices with comprehensi
 **Course**: CS 3250 - Software Development Methods and Tools  
 **Institution**: Metropolitan State University of Denver  
 **Project Timeline**: October 29, 2025 - December 2025  
-**Objectives Documentation Due**: November 21, 2025
 
 **Technical Stack**:
 - Language: Java
@@ -92,10 +91,10 @@ The Job Fair Note App follows professional software development practices:
 - Comprehensive regression testing
 
 **Key Milestones**:
-- **Nov 21**: Objectives documentation submission
+- **Nov 21**: Stakeholder Review
 - **Dec 2025**: Console application feature-complete
 - **Future**: Potential mobile app development
 
 ## License
 
-This project is created for educational purposes as part of CS 3250 coursework.
+This project is licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. For the full legal code, see the [LICENSE](LICENSE) file.

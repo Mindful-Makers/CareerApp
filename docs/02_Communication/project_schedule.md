@@ -1,7 +1,7 @@
 # Project Schedule
 
 **Project Start**: October 29, 2025  
-**Stakeholder Review**: November 21, 2025  
+**Stakeholder Review Package Due**: November 21, 2025  
 **Expected Completion**: December 2025
 
 ---
@@ -34,7 +34,7 @@
 | Team agreement finalized | Nov 12 | ✅ |
 | User stories in GitHub Issues | Nov 10-12 | ✅ |
 | Kanban board populated | Nov 10-12 | ✅ |
-| Development environment setup | Nov 12-14 | 🟡 In Progress |
+| Development environment setup | Nov 12-14 | ✅ |
 | Mid-project retrospective | Nov 15-16 | ✅ |
 
 **Deliverables**: 
@@ -44,19 +44,19 @@
 
 ---
 
-### Phase 3: Objectives Documentation & Initial Development
+### Phase 3: Documentation & Initial Development
 **Dates**: Nov 17-21
 
 | Milestone | Target Date | Status |
 |-----------|-------------|--------|
-| Basic project structure and build setup | Nov 17-18 | 🟡 In Progress |
-| Documentation review & completion | Nov 18-19 | 🟡 In Progress |
+| Basic project structure and build setup | Nov 17-18 | ✅ |
+| Documentation review & completion | Nov 18-19 | ✅ |
 | Peer reflections completed | Nov 19 | ⏳ |
 | Contribution summary finalized | Nov 19-20 | 🟡 In Progress |
-| Retrospective through Nov 21 | Nov 20 | 🟡 In Progress |
+| Retrospective through Nov 21 | Nov 20 | ✅|
 
 **Phase 3 Deliverables**: 
-- Objectives documentation package
+- Stakeholder Review Package
 - Development environment and build configuration
 - Initial project structure
 - Process artifacts (retrospectives, board screenshots, team reflections)
@@ -68,12 +68,12 @@
 
 | Milestone | Target Date | Status |
 |-----------|-------------|--------|
-| Build configuration (Ant) | Nov 22-24 | ⏳ |
-| Core data models | Nov 25-26 | ⏳ |
-| Basic UI framework | Nov 27-29 | ⏳ |
+| Build configuration (Ant) | Nov 22-24 | ✅ |
+| Core data models | Nov 25-26 | 🟡 In Progress |
+| Basic UI framework | Nov 27-29 | ✅ |
 | Company note CRUD (create, edit, delete) | Nov 30 - Dec 3 | ⏳ |
 | Data persistence layer | Dec 4-5 | ⏳ |
-| List view with basic display | Dec 6-8 | ⏳ |
+| List view with basic display | Dec 6-8 | ✅ |
 
 **Deliverables**: Working MVP - can create, view, edit, delete company notes
 
@@ -136,7 +136,7 @@ This approach allows us to focus on functionality first with the current technic
 | Testing delays | **Medium** | Medium | Write tests alongside code, not after |
 | Integration challenges | **Medium** | Medium | Incremental integration, continuous testing |
 
-**Key Milestone**: Nov 21 objectives documentation is a hard deadline. Product development timeline is flexible and extends through December.
+**Key Milestone**: Nov 21 stakeholder review is a hard deadline. Product development timeline is flexible and extends through December.
 
 ---
 
@@ -175,7 +175,7 @@ This approach allows us to focus on functionality first with the current technic
 
 ### Stakeholder Communication (External)
 - **Weekly**: Progress reports to instructor via email
-- **Nov 21**: Objectives documentation package submitted
+- **Nov 21**: Stakeholder Review Package submitted
 - **Late Nov**: Mid-project stakeholder review (product progress)
 - **Late Dec**: Final project stakeholder review (completed product)
 
@@ -189,5 +189,5 @@ This approach allows us to focus on functionality first with the current technic
 
 ---
 
-**Last Updated**: November 18, 2025 
+**Last Updated**: November 19, 2025 
 **Owner**: Giorgina Gottlieb

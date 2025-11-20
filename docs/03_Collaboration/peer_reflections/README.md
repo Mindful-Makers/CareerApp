@@ -21,5 +21,5 @@ Use `reflection_template.md` to create your individual reflection.
 
 ---
 
-**Due**: November 19-20, 2025 (before objectives submission)
+**Due**: November 21, 2025 (as part of Stakeholder Review Package)
 

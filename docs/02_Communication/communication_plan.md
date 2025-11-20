@@ -94,26 +94,28 @@ Communication through team channels (see [Team Agreement](../03_Collaboration/te
 
 ---
 
-## Objectives Documentation - Canvas Submission (Nov 21)
+## Stakeholder Review Package
 
 **What**: Documentation demonstrating learning objectives  
 **Format**: Canvas submission (no presentation required)  
 **Note**: This is separate from the ongoing product development
 
 **What to Submit**:
-- Link to GitHub repository
-- Documentation demonstrating three objectives:
-  1. **Methodology**: Kanban overview, user stories, retrospectives
-  2. **Stakeholder Management**: Communication plan, project schedule
-  3. **Collaboration**: Team agreement, peer reflections, contribution summary
-- Process artifacts and evidence
+- Team name: Mindful Makers
+- Team members: Ubaldo Bogarin, Giorgina Gottlieb, Sayo Owolabi, Jaiden Searle, Elaine Vizcarra
+- Team Repository URL: https://github.com/Mindful-Makers/CareerApp
+- Team Primary Objectives:
+  - To demonstrate:
+    - Understanding of **agile methodology**
+    - Understanding of **stakeholder management** and communication 
+    - **Collaboration** skills
+  - Deliver a product that we can test with an end user (iteration 0)
+- Personal Refection: "Reflect on your experience with developing and delivering your team's results. Share insights and how this experience may affect your teamwork in the future."  
 
 **Preparation Checklist**:
-- [ ] All required documentation complete and reviewed
-- [ ] GitHub activity demonstrates collaboration
-- [ ] Board screenshots captured
-- [ ] Retrospectives completed through Nov 21
-- [ ] Peer reflections written
+- [ ] All repository documentation complete and reviewed, including:
+  - [ ] Peer Reflections
+  - [ ] Contribution Summary
 - [ ] Links and references work correctly
 
 ---
@@ -149,7 +151,7 @@ Stakeholders can access project information at:
 ---
 
 **Document Owner**: Giorgina Gottlieb 
-**Last Updated**: November 12, 2025
+**Last Updated**: November 19, 2025
 
 ---
 

@@ -171,7 +171,7 @@
 
 **Oct 29 - Nov 9**: Vision and planning  
 **Nov 10-16**: Documentation and setup  
-**Nov 17-21**: Initial implementation & objectives documentation due  
+**Nov 17-21**: Initial implementation & Stakeholder Review Package due  
 **Nov 22 - Dec 6**: Core development  
 **Dec 7-20**: Feature development  
 **Dec 21+**: Polish and delivery

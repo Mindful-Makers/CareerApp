@@ -1,8 +1,8 @@
 # Contribution Summary
 
-**Purpose**: Document team contributions for Nov 21 objectives submission  
-**When to Complete**: November 18-20, 2025  
-**Owner**: [Designated team member]
+**Purpose**: Document team contributions for Stakeholder Review Package 
+**When to Complete**: November 21, 2025  
+**Owner**: ALL
 
 **Instructions**: Fill in this document with actual GitHub statistics and contribution details. Use the git commands provided to generate stats.
 
@@ -14,11 +14,11 @@
 
 | Team Member | Commits | Lines Added | Lines Deleted |
 |-------------|---------|-------------|---------------|
-| Ubaldo | [#] | [#] | [#] |
-| Giorgina | 6 | 1637 | 16 |
-| Sayo | [#] | [#] | [#] |
-| Jaiden | [#] | [#] | [#] |
-| Elaine | 1 | [#] | [#] |
+| @ubaldo21093 | 1 | 634 | 6 |
+| @giorginamarie | 4 | 2117 | 443 |
+| @Sayoowo | 0 | 0 | 0 |
+| @JaidenSearle | 0 | 0 | 0 |
+| @elaineyAV | 2 | 122 | 0 |
 
 ---
 
@@ -26,11 +26,11 @@
 
 | Team Member | PRs Created | PRs Merged | PRs Reviewed |
 |-------------|-------------|------------|--------------|
-| Ubaldo | [#] | [#] | [#] |
-| Giorgina | 4 | 3 | 0 |
-| Sayo | [#] | [#] | [#] |
-| Jaiden | [#] | [#] | [#] |
-| Elaine | [#] | [#] | [#] |
+| @ubaldo21093 | 1 | 1 | 2 |
+| @giorginamarie | 6 | 4 | 2 |
+| @Sayoowo | 2 | 0 | 2 |
+| @JaidenSearle | 0 | 0 | 2 |
+| @elaineyAV | 1 | 1 | 3 |
 
 ---
 
@@ -38,78 +38,65 @@
 
 | Team Member | Issues Created | Issues Closed | Issues Assigned |
 |-------------|----------------|---------------|-----------------|
-| Ubaldo | [#] | [#] | [#] |
-| Giorgina | 10 | 5 | 6 |
-| Sayo | [#] | [#] | [#] |
-| Jaiden | [#] | [#] | [#] |
-| Elaine | [#] | [#] | [#] |
+| @ubaldo21093 | 0 | 0 | 2 |
+| @giorginamarie | 6 | 4 | 2 |
+| @Sayoowo | 0 | 0 | 2 |
+| @JaidenSearle | 6 | 6 | 3 |
+| @elaineyAV | 11 | 2 | 2 |
 
 ---
 
 ## Individual Summaries
 
-### Ubaldo Bogarin
+### Ubaldo Bogarin | @ubaldo21093  
 **Key Contributions**:
-- COntributed core build and UI
+- Contributed core build and UI/UX design: [PR #25](https://github.com/Mindful-Makers/CareerApp/pull/25)
 
 ---
 
-### Giorgina Gottlieb
+### Giorgina Gottlieb | @giorginamarie  
 **Key Contributions**:
 - Created and maintained core documentation: [PR #7](https://github.com/Mindful-Makers/CareerApp/pull/7), [PR #9](https://github.com/Mindful-Makers/CareerApp/pull/9), [PR #23](https://github.com/Mindful-Makers/CareerApp/pull/23)
 
 ---
 
-### Sayo Owolabi
+### Sayo Owolabi | @Sayoowo   
 **Key Contributions**:
-- [Major features or tasks]
+- User story and feature refinement  
+- Code review
 
 ---
 
-### Jaiden Searle
+### Jaiden Searle | @JaidenSearle  
 **Key Contributions**:
-- [Major features or tasks]
+- Project management 
+- User story refinement    
 
 ---
 
-### Elaine Vizcarra
+### Elaine Vizcarra | @elaineyAV  
 **Key Contributions**:
-- [Major features or tasks]
+- Product vision  
+- User story refinement  
 
 ---
 
 ## Collaboration Examples
 
-### Example 1: PR #25
-- **Contributors**: Ubi, Jaiden, Giorgina, Sayo, Elaine
+### PR #25
+- **Contributors**: Ubaldo, Jaiden, Giorgina, Sayo, Elaine
 - **What happened**: Collaborated on PR related to core functionality (iteration 0)
 - **Link**: [https://github.com/Mindful-Makers/CareerApp/pull/25]
+- **Meeting Notes**: [November 21 Meeting Notes](docs/02_Communication/documentation/meeting_notes_nov19.md)
 
 ---
 
 ## Generating Statistics
 
-### For Accurate Statistics
-- Run commands from your local repo (must be up to date: `git pull`)
-- Make sure all remotes are fetched: `git fetch --all`
-- Names must match exactly as they appear in git config
+### Get Commit Statistics by Author
 
-### Get Commit Count by Author
-
-**For summary of all contributors**, run:
-```bash
-git shortlog -sn --all --no-merges
-```
-
-### Get Lines Added/Deleted per Author
-
-**For each team member**, run:
-```bash
-git log --author="Ubaldo Bogarin" --stat
-```
-Then manually look at the bottom summary line that shows insertions/deletions.
-
-Replace "Ubaldo Bogarin" with each person's name and/or Github username.
+1. Go to: https://github.com/Mindful-Makers/CareerApp/graphs/contributors
+2. Commits, lines added, and lines deleted are grouped by contributor over a customizable time period
 
 ### Get Pull Request Activity
 
@@ -149,4 +136,4 @@ Replace "Ubaldo Bogarin" with each person's name and/or Github username.
 
 ---
 
-**Last Updated**: November 18, 2025 
+**Last Updated**: November 19, 2025 

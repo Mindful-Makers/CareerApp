@@ -21,7 +21,7 @@ Regular team retrospectives to reflect on our process and continuously improve. 
 **Context**: Continuing planning
 
 ### What Went Well ✅
-- Everyone was present in person
+- Better communication, e.g., everyone was present in class  
 - We all agreed to the team agreement
 - Felt good about framework for user stories and acceptance criteria
 
@@ -219,4 +219,4 @@ Regular team retrospectives to reflect on our process and continuously improve. 
 
 ---
 
-**Last Updated**: November 18, 2025
+**Last Updated**: November 19, 2025
