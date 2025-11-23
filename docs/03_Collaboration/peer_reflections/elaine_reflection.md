@@ -28,7 +28,7 @@
 ## Feedback for Teammates
 
 ### Ubaldo
-**Appreciated**: COntributed one of the most visible pieces of our project. Demonstrated very strong problem solving, especially in getting familiar with a new GUI for this project 
+**Appreciated**: Contributed one of the most visible pieces of our project. Demonstrated very strong problem solving, especially in getting familiar with a new GUI for this project 
 
 ### Sayo
 **Appreciated**: Consistently came in with a positive attitude, which contributed to a environment that could foster collaboration. 
